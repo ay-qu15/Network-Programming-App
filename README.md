@@ -32,4 +32,3 @@ State Persistence & Validation: The server-side logic includes a validation laye
 Known Technical Limitations
 
 Wait-Time Logic: The current client-side implementation faces a challenge regarding the 5-minute timeout mechanism; specifically, it does not yet consistently prompt the patient to wait or withdraw if a specific doctor fails to respond within the designated window.
-+1
